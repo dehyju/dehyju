@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @dehyju
 - 👀 I’m interested in developing my coding skills
 - 🌱 I've used
-  - Python, C++, HTML, CSS, JavaScript, Java, React, php, SQL
+  - Languages: Python, C++, HTML, CSS, JavaScript, Java, React, php, SQL
+  - Other: SUMS, myphpAdmin
 - 💞️ Checkout my repositories!
   - [My repos](https://github.com/dehyju?tab=repositories)
+  - Helped to develop and maintain [LSU Website](https://lsu.co.uk)
 - 📫 How to reach me:
   - [Email](mailto:stephen.t.j.leong@gmail.com)  
   - [LinkedIn](https://www.linkedin.com/in/stephen-leong-a5a52b281/)
