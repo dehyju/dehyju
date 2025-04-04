@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dehyju
 - 👀 I’m interested in developing my coding skills
 - 🌱 I've used
-  - Languages: Python, C++, HTML, CSS, JavaScript, Java, React, php, SQL
-  - Other: SUMS, myphpAdmin
+  - Languages: Python, C++, HTML, CSS, JavaScript, Java, React, php, SQL, MySQL, PostgreSQL, node, express
+  - Other: SUMS, myphpAdmin, GCP, linux, workflows, pm2, directus
 - 💞️ Checkout my repositories!
   - [My repos](https://github.com/dehyju?tab=repositories)
   - Helped to develop and maintain [LSU Website](https://lsu.co.uk)
