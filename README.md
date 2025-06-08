@@ -1,6 +1,6 @@
 # Stephen Leong (@dehyju)
 
-I’m a passionate software developer eager to grow my coding skills and contribute to impactful projects.
+I’m a computer science student at Loughborough University eager to grow my coding skills and contribute to impactful projects.
 
 ---
 
