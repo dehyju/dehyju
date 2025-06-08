@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Stephen Leong (@dehyju)
+# Stephen Leong (@dehyju)
 
 I’m a passionate software developer eager to grow my coding skills and contribute to impactful projects.
 
