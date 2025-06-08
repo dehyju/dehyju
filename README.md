@@ -1,14 +1,34 @@
-- 👋 Hi, I’m @dehyju
-- 👀 I’m interested in developing my coding skills
-- 🌱 I've used
-  - Languages: Python, C++, HTML, CSS, JavaScript, Java, React, php, SQL, MySQL, PostgreSQL, node, express
-  - Other: SUMS, myphpAdmin, GCP, linux, workflows, pm2, directus
-- 💞️ Checkout my repositories!
-  - [My repos](https://github.com/dehyju?tab=repositories)
-  - Helped to develop and maintain [LSU Website](https://lsu.co.uk)
-- 📫 How to reach me:
-  - [Email](mailto:stephen.t.j.leong@gmail.com)  
-  - [LinkedIn](https://www.linkedin.com/in/stephen-leong-a5a52b281/)
+# 👋 Hi, I’m Stephen Leong (@dehyju)
+
+I’m a passionate software developer eager to grow my coding skills and contribute to impactful projects.
+
+---
+
+## 🔭 Technologies & Tools I Use
+
+**Languages:** Python, C++, Java, JavaScript, React, PHP, SQL, HTML, CSS, Node.js, Express  
+**Databases:** MySQL, PostgreSQL  
+**Tools & Platforms:** SUMS, phpMyAdmin, Google Cloud Platform (GCP), Linux, PM2, Directus, Workflow Automation  
+
+---
+
+## 🚀 Projects & Contributions
+
+- Maintainer and contributor for the [LSU Website](https://lsu.co.uk) — building and improving web experiences for the Loughborough Students’ Union  
+- Explore my work on [GitHub repositories](https://github.com/dehyju?tab=repositories)
+
+---
+
+## 📫 Get in Touch
+
+- Email: [stephen.t.j.leong@gmail.com](mailto:stephen.t.j.leong@gmail.com)  
+- LinkedIn: [Stephen Leong](https://www.linkedin.com/in/stephen-t-j-leong/)
+
+---
+
+Feel free to connect or collaborate!  
+Happy coding! 👨‍💻✨
+
 
 <!---
 dehyju/dehyju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
