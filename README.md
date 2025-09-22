@@ -7,8 +7,8 @@ I’m a computer science student at Loughborough University eager to grow my cod
 ## 🔭 Technologies & Tools I Use
 
 **Languages:** Python, C++, Java, JavaScript, React, PHP, SQL, HTML, CSS, Node.js, Express  
-**Databases:** MySQL, PostgreSQL  
-**Tools & Platforms:** SUMS, phpMyAdmin, Google Cloud Platform (GCP), Linux, PM2, Directus, Workflow Automation  
+**Databases:** MySQL, PostgreSQL, Firestore
+**Tools & Platforms:** SUMS, phpMyAdmin, Google Cloud Platform (GCP), Firebase, Linux, PM2, Directus, Workflow Automation  
 
 ---
 
