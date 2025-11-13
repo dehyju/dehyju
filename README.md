@@ -4,7 +4,7 @@ I’m a computer science student at Loughborough University eager to grow my cod
 
 ---
 
-## 🔭 Technologies & Tools I Use
+## Technologies & Tools I Use
 
 **Languages:** Python, C++, Java, JavaScript, React, PHP, SQL, HTML, CSS, Node.js, Express  
 **Databases:** MySQL, PostgreSQL, Firestore  
@@ -12,14 +12,14 @@ I’m a computer science student at Loughborough University eager to grow my cod
 
 ---
 
-## 🚀 Projects & Contributions
+## Projects & Contributions
 
 - Maintainer and contributor for the [LSU Website](https://lsu.co.uk) — building and improving web experiences for the Loughborough Students’ Union  
 - Explore my work on [GitHub repositories](https://github.com/dehyju?tab=repositories)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - Email: [stephen.t.j.leong@gmail.com](mailto:stephen.t.j.leong@gmail.com)  
 - LinkedIn: [Stephen Leong](https://www.linkedin.com/in/stephen-t-j-leong/)
@@ -27,7 +27,6 @@ I’m a computer science student at Loughborough University eager to grow my cod
 ---
 
 Feel free to connect or collaborate!  
-Happy coding! 👨‍💻✨
 
 
 <!---
