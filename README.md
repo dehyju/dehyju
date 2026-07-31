@@ -15,7 +15,7 @@ I’m a computer science student at Loughborough University eager to grow my cod
 ## Projects & Contributions
 
 - Maintainer and contributor for the [LSU Website](https://lsu.co.uk) — building and improving web experiences for the Loughborough Students’ Union
-- CTO & Co-founder [Hauze LTD](https://hauze.io/) — building an app to make shared living easy. 
+- Ex-CTO & Co-founder [Hauze LTD](https://hauze.io/) — building an app to make shared living easy. 
 - Explore my work on [GitHub repositories](https://github.com/dehyju?tab=repositories)
 
 ---
