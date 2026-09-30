@@ -1,6 +1,6 @@
 # Stephen Leong (@dehyju)
 
-I’m a computer science student at Loughborough University eager to grow my coding skills and contribute to impactful projects.
+SWE at NatWest Group and Loughborough University alumus.
 
 ---
 
@@ -8,13 +8,13 @@ I’m a computer science student at Loughborough University eager to grow my cod
 
 **Languages:** Python, C++, Java, JavaScript, React, PHP, SQL, HTML, CSS, Node.js, Express  
 **Databases:** MySQL, PostgreSQL, Firestore  
-**Tools & Platforms:** SUMS, phpMyAdmin, Google Cloud Platform (GCP), Firebase, Linux, PM2, Directus, Workflow Automation  
+**Tools & Platforms:** SUMS, phpMyAdmin, Google Cloud Platform (GCP), AWS, Firebase, Linux, PM2, Directus, Workflow Automation, Springboot, Vert.x  
 
 ---
 
 ## Projects & Contributions
 
-- Maintainer and contributor for the [LSU Website](https://lsu.co.uk) — building and improving web experiences for the Loughborough Students’ Union
+- Former maintainer and contributor for the [LSU Website](https://lsu.co.uk) — building and improving web experiences for the Loughborough Students’ Union
 - Ex-CTO & Co-founder [Hauze LTD](https://hauze.io/) — building an app to make shared living easy. 
 - Explore my work on [GitHub repositories](https://github.com/dehyju?tab=repositories)
 
